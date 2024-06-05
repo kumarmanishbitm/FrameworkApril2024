@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T08:33:04 IST" name="Suite" finished-at="2024-06-05T08:33:21 IST" duration-ms="17350">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T08:33:04 IST" name="Test" finished-at="2024-06-05T08:33:21 IST" duration-ms="17350">
+      <class name="com.saucelab.testCases.RegressionTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.saucelab.testCases.RegressionTestCases@66d3eec0]" started-at="2024-06-05T08:33:05 IST" name="setUp" finished-at="2024-06-05T08:33:16 IST" duration-ms="11215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageFunctionality()[pri:0, instance:com.saucelab.testCases.RegressionTestCases@66d3eec0]" started-at="2024-06-05T08:33:16 IST" name="verifyLoginPageFunctionality" finished-at="2024-06-05T08:33:21 IST" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucelab.testCases.RegressionTestCases@66d3eec0]" started-at="2024-06-05T08:33:21 IST" name="tearDown" finished-at="2024-06-05T08:33:21 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucelab.testCases.RegressionTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
